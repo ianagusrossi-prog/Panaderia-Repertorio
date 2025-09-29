@@ -1,1 +1,2 @@
 una linea al fnal del archivo de pantallas
+Pantalla inicial mejorada
